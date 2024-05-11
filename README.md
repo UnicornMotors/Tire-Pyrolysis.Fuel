@@ -7,3 +7,6 @@ sch: https://www.google.com/search?q=tire+pyrolysis+oil
 # Research:
 - https://link.springer.com/article/10.1007/s10098-023-02586-0
 - https://pubs.acs.org/doi/10.1021/acs.energyfuels.0c02271
+
+# Inspire.
+- [Tire-extract fuel vs pump gas - which is better?](https://youtu.be/Oc2Cak-I96g)
