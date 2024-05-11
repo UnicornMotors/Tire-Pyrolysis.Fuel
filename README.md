@@ -10,3 +10,4 @@ sch: https://www.google.com/search?q=tire+pyrolysis+oil
 
 # Inspire.
 - [Tire-extract fuel vs pump gas - which is better?](https://youtu.be/Oc2Cak-I96g)
+- [We convert old tires into fuel](https://youtu.be/H0hPBCmYmNE)
