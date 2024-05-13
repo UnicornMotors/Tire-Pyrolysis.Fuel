@@ -12,3 +12,6 @@ sch: https://www.google.com/search?q=tire+pyrolysis+oil
 ## by: Garage 54
 - [We convert old tires into fuel](https://youtu.be/H0hPBCmYmNE)
 - [Tire-extract fuel vs pump gas - which is better?](https://youtu.be/Oc2Cak-I96g)
+
+## Documentary:
+- [What Happens to Used Tires? | Free Doc Bites](https://youtu.be/y0ah6QZpI3M)
