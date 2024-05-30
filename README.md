@@ -9,6 +9,9 @@ sch: https://www.google.com/search?q=tire+pyrolysis+oil
 - https://pubs.acs.org/doi/10.1021/acs.energyfuels.0c02271
 
 # Inspire.
+## in Africa
+- [Nigeria’s Genius Solution to Recycle Massive Amount of Used Tires](https://youtu.be/zjb7RLlyi-Y)
+
 ## by: Garage 54
 - [We convert old tires into fuel](https://youtu.be/H0hPBCmYmNE)
 - [Tire-extract fuel vs pump gas - which is better?](https://youtu.be/Oc2Cak-I96g)
