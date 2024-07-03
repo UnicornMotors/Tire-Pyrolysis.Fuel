@@ -9,6 +9,8 @@ sch: https://www.google.com/search?q=tire+pyrolysis+oil
 - https://pubs.acs.org/doi/10.1021/acs.energyfuels.0c02271
 
 # Inspire.
+- [Amazing Process of making Fuel with Old Tires. Tire recycling Factory in Korea](https://youtu.be/_BXYvOdkBgg)
+
 ## in Africa
 - [Nigeria’s Genius Solution to Recycle Massive Amount of Used Tires](https://youtu.be/zjb7RLlyi-Y)
 
